@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -14,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
