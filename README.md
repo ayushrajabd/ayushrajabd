@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
 ## Array
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
+## Sorting
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
+## Bucket Sort
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
+## Ordered Set
+|  |
+| ------- |
+| [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
 <!---LeetCode Topics End-->
