@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
