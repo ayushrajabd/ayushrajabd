@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushrajabd/ayushrajabd/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/ayushrajabd/ayushrajabd/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
+| [0069-sqrtx](https://github.com/ayushrajabd/ayushrajabd/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
 | [2083-three-divisors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/2106-find-greatest-common-divisor-of-array) |
