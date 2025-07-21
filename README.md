@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/ayushrajabd/ayushrajabd/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/ayushrajabd/ayushrajabd/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/ayushrajabd/ayushrajabd/tree/master/0022-generate-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
