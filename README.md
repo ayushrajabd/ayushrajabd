@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0141-linked-list-cycle) |
 | [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/ayushrajabd/ayushrajabd/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ayushrajabd/ayushrajabd/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ayushrajabd/ayushrajabd/tree/master/0022-generate-parentheses) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/ayushrajabd/ayushrajabd/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
