@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/ayushrajabd/ayushrajabd/tree/master/2491-smallest-even-multiple) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/ayushrajabd/ayushrajabd/tree/master/2491-smallest-even-multiple) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0204-count-primes) |
 | [2083-three-divisors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2507-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
