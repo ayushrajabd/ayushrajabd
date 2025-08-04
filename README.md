@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ayushrajabd/ayushrajabd/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/ayushrajabd/ayushrajabd/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ayushrajabd/ayushrajabd/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
 ## Geometry
 |  |
