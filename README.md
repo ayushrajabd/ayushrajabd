@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ayushrajabd/ayushrajabd/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/ayushrajabd/ayushrajabd/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/ayushrajabd/ayushrajabd/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ayushrajabd/ayushrajabd/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0088-merge-sorted-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/ayushrajabd/ayushrajabd/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ayushrajabd/ayushrajabd/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ayushrajabd/ayushrajabd/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
@@ -203,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0029-divide-two-integers) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ayushrajabd/ayushrajabd/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
