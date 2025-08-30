@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/ayushrajabd/ayushrajabd/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
+| [0091-decode-ways](https://github.com/ayushrajabd/ayushrajabd/tree/master/0091-decode-ways) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Sliding Window
 |  |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ayushrajabd/ayushrajabd/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
