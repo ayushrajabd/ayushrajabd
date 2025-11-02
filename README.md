@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/1018-largest-perimeter-triangle) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/ayushrajabd/ayushrajabd/tree/master/1642-water-bottles) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3336-water-bottles-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3336-water-bottles-ii) |
 ## Geometry
 |  |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0064-minimum-path-sum) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
 |  |
 | ------- |
