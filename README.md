@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushrajabd/ayushrajabd/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/ayushrajabd/ayushrajabd/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2507-number-of-common-factors) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3336-water-bottles-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Memoization
