@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
+| [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0523-continuous-subarray-sum) |
 | [0830-largest-triangle-area](https://github.com/ayushrajabd/ayushrajabd/tree/master/0830-largest-triangle-area) |
 | [0888-mirror-reflection](https://github.com/ayushrajabd/ayushrajabd/tree/master/0888-mirror-reflection) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/ayushrajabd/ayushrajabd/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/ayushrajabd/ayushrajabd/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0024-swap-nodes-in-pairs) |
+| [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
