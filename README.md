@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ayushrajabd/ayushrajabd/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0091-decode-ways](https://github.com/ayushrajabd/ayushrajabd/tree/master/0091-decode-ways) |
+| [0125-valid-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0166-fraction-to-recurring-decimal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/ayushrajabd/ayushrajabd/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
