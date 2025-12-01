@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 ## Matrix
 |  |
