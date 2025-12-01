@@ -1,14 +1,9 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-        unordered_map<int,int> ump;
-        for(int i:nums){
-            ump[i]++;
-        }
-        for(auto x:ump){
-            if(x.second==1){
-                return x.first;
-            }
-        }return 0;
+        int xori=0;
+        for(int i=0;i<nums.size();i++){
+            xori=xori^nums[i];
+        }return xori;
     }
 };
