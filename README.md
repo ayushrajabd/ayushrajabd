@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0166-fraction-to-recurring-decimal) |
+| [0169-majority-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0209-minimum-size-subarray-sum) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/ayushrajabd/ayushrajabd/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/0169-majority-element) |
 | [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ayushrajabd/ayushrajabd/tree/master/0455-assign-cookies) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayushrajabd/ayushrajabd/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/0169-majority-element) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Dynamic Programming
 |  |
@@ -244,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/0169-majority-element) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
