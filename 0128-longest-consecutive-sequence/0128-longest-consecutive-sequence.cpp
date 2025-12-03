@@ -12,17 +12,23 @@ public:
     int longestConsecutive(vector<int>& nums) {
         int n=nums.size();
         if(nums.size()==0)return 0;
-        sort(nums.begin(),nums.end());
-        int longest=1;int curr=1;
-        for(int i=0;i<n-1;i++){
-            if(nums[i+1]==nums[i]+1){
-                curr++;
-                longest=max(longest,curr);
-            }
-            else if(nums[i+1]!=nums[i]+1&&nums[i+1]!=nums[i]){
-                curr=1;
-            }
+        set<int> track;
+        for(int i=0;i<n;i++){
+            track.insert(nums[i]);
+        }int longest=1;int count=0;
+        for(auto it:track){
+            if(track.find(it-1)==track.end()){
+                count=1;
+                int x=it+1;
+                while(track.find(x)!=track.end()){
+                    count++;
+                    x++;
 
-        }return longest;
+                }
+                longest=max(longest,count);
+
+            }
+        }
+        return longest;
     }
 };
