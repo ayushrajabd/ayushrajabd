@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0166-fraction-to-recurring-decimal) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/ayushrajabd/ayushrajabd/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/ayushrajabd/ayushrajabd/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0118-pascals-triangle) |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ayushrajabd/ayushrajabd/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
