@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2507-number-of-common-factors) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3336-water-bottles-ii) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Memoization
 |  |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ayushrajabd/ayushrajabd/tree/master/0830-largest-triangle-area) |
 | [0888-mirror-reflection](https://github.com/ayushrajabd/ayushrajabd/tree/master/0888-mirror-reflection) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
