@@ -1,15 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> dp(numRows);
-
-        for(int i=0;i<numRows;i++){
-            dp[i].resize(i+1);
-            dp[i][0]=dp[i][i]=1;
-            for(int j=1;j<i;j++){
-                dp[i][j]=dp[i-1][j-1]+dp[i-1][j];
-            }
+    vector<int> generaterow(int n){
+        vector<int> ans;
+        ans.push_back(1);
+        int a=1;
+        for(int i=1;i<n;i++){
+            a*=(n-i);
+            a/=i;
+            ans.push_back(a);
         }
-        return dp;
+        return ans;
+    }
+    vector<vector<int>> generate(int numRows) {
+        vector<vector<int>> give;
+        for(int i=1;i<=numRows;i++){
+            give.push_back(generaterow(i));
+        }
+        return give;
     }
 };
