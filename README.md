@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3531-count-covered-buildings](https://github.com/ayushrajabd/ayushrajabd/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ayushrajabd/ayushrajabd/tree/master/3583-count-special-triplets) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3531-count-covered-buildings](https://github.com/ayushrajabd/ayushrajabd/tree/master/3531-count-covered-buildings) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushrajabd/ayushrajabd/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ayushrajabd/ayushrajabd/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/ayushrajabd/ayushrajabd/tree/master/3583-count-special-triplets) |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/1018-largest-perimeter-triangle) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3531-count-covered-buildings](https://github.com/ayushrajabd/ayushrajabd/tree/master/3531-count-covered-buildings) |
 ## Bucket Sort
 |  |
 | ------- |
