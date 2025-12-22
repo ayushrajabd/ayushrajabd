@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushrajabd/ayushrajabd/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushrajabd/ayushrajabd/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushrajabd/ayushrajabd/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/1018-largest-perimeter-triangle) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushrajabd/ayushrajabd/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
+| [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushrajabd/ayushrajabd/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayushrajabd/ayushrajabd/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
