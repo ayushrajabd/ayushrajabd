@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ayushrajabd/ayushrajabd/tree/master/0830-largest-triangle-area) |
+| [0875-koko-eating-bananas](https://github.com/ayushrajabd/ayushrajabd/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0890-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushrajabd/ayushrajabd/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/ayushrajabd/ayushrajabd/tree/master/0704-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
+| [0875-koko-eating-bananas](https://github.com/ayushrajabd/ayushrajabd/tree/master/0875-koko-eating-bananas) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
 ## Prefix Sum
