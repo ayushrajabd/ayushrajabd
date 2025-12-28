@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushrajabd/ayushrajabd/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/1018-largest-perimeter-triangle) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushrajabd/ayushrajabd/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushrajabd/ayushrajabd/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ayushrajabd/ayushrajabd/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushrajabd/ayushrajabd/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushrajabd/ayushrajabd/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
 ## Prefix Sum
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0073-set-matrix-zeroes) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Combinatorics
 |  |
