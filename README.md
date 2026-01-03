@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushrajabd/ayushrajabd/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
