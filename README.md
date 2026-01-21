@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayushrajabd/ayushrajabd/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ayushrajabd/ayushrajabd/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3453-separate-squares-i) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0756-pyramid-transition-matrix) |
+| [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
 |  |
 | ------- |
