@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
 | [0455-assign-cookies](https://github.com/ayushrajabd/ayushrajabd/tree/master/0455-assign-cookies) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/ayushrajabd/ayushrajabd/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0509-fibonacci-number) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0102-binary-tree-level-order-traversal) |
+| [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
