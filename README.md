@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushrajabd/ayushrajabd/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0518-coin-change-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1143-longest-common-subsequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/ayushrajabd/ayushrajabd/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
