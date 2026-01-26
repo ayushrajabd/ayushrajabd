@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/ayushrajabd/ayushrajabd/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
+| [0072-edit-distance](https://github.com/ayushrajabd/ayushrajabd/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/ayushrajabd/ayushrajabd/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushrajabd/ayushrajabd/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/0125-valid-palindrome) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/ayushrajabd/ayushrajabd/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/ayushrajabd/ayushrajabd/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushrajabd/ayushrajabd/tree/master/0115-distinct-subsequences) |
