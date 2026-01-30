@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ayushrajabd/ayushrajabd/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ayushrajabd/ayushrajabd/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushrajabd/ayushrajabd/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/ayushrajabd/ayushrajabd/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ayushrajabd/ayushrajabd/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayushrajabd/ayushrajabd/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayushrajabd/ayushrajabd/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayushrajabd/ayushrajabd/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/ayushrajabd/ayushrajabd/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/ayushrajabd/ayushrajabd/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ayushrajabd/ayushrajabd/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ayushrajabd/ayushrajabd/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0014-longest-common-prefix) |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Stack
 |  |
 | ------- |
@@ -633,4 +637,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3454-separate-squares-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 <!---LeetCode Topics End-->
