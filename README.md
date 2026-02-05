@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3379-transformed-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/3379-transformed-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/ayushrajabd/ayushrajabd/tree/master/3433-count-mentions-per-user) |
 | [3453-separate-squares-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3453-separate-squares-i) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/ayushrajabd/ayushrajabd/tree/master/3433-count-mentions-per-user) |
 ## Geometry
 |  |
