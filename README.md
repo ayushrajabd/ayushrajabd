@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/ayushrajabd/ayushrajabd/tree/master/0560-subarray-sum-equals-k) |
 | [0756-pyramid-transition-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0756-pyramid-transition-matrix) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ayushrajabd/ayushrajabd/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/ayushrajabd/ayushrajabd/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0540-single-element-in-a-sorted-array) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
 | [2211-count-collisions-on-a-road](https://github.com/ayushrajabd/ayushrajabd/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0085-maximal-rectangle) |
+| [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
 ## Segment Tree
 |  |
 | ------- |
