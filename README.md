@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ayushrajabd/ayushrajabd/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0540-single-element-in-a-sorted-array) |
@@ -603,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0503-next-greater-element-ii) |
 | [2211-count-collisions-on-a-road](https://github.com/ayushrajabd/ayushrajabd/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
@@ -642,6 +644,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0503-next-greater-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
