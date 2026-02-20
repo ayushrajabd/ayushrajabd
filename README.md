@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0583-delete-operation-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0756-pyramid-transition-matrix) |
+| [0761-special-binary-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/0761-special-binary-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushrajabd/ayushrajabd/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ayushrajabd/ayushrajabd/tree/master/0455-assign-cookies) |
+| [0761-special-binary-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/0761-special-binary-string) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/1018-largest-perimeter-triangle) |
 | [1200-minimum-absolute-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/1200-minimum-absolute-difference) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0240-search-a-2d-matrix-ii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0761-special-binary-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushrajabd/ayushrajabd/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3719-longest-balanced-subarray-i) |
 ## Dynamic Programming
