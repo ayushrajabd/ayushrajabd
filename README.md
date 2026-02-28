@@ -544,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/ayushrajabd/ayushrajabd/tree/master/0268-missing-number) |
 | [0756-pyramid-transition-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0756-pyramid-transition-matrix) |
+| [0868-binary-gap](https://github.com/ayushrajabd/ayushrajabd/tree/master/0868-binary-gap) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Matrix
