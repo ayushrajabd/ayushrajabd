@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushrajabd/ayushrajabd/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ayushrajabd/ayushrajabd/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayushrajabd/ayushrajabd/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushrajabd/ayushrajabd/tree/master/2288-count-operations-to-obtain-zero) |
 | [2491-smallest-even-multiple](https://github.com/ayushrajabd/ayushrajabd/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2507-number-of-common-factors) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushrajabd/ayushrajabd/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/ayushrajabd/ayushrajabd/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3336-water-bottles-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3336-water-bottles-ii) |
@@ -535,6 +537,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/ayushrajabd/ayushrajabd/tree/master/2288-count-operations-to-obtain-zero) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushrajabd/ayushrajabd/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3336-water-bottles-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3336-water-bottles-ii) |
 | [3379-transformed-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/ayushrajabd/ayushrajabd/tree/master/3433-count-mentions-per-user) |
@@ -578,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/1975-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushrajabd/ayushrajabd/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ayushrajabd/ayushrajabd/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Combinatorics
 |  |
