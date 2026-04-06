@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0874-walking-robot-simulation](https://github.com/ayushrajabd/ayushrajabd/tree/master/0874-walking-robot-simulation) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/ayushrajabd/ayushrajabd/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/0840-magic-squares-in-grid) |
+| [0874-walking-robot-simulation](https://github.com/ayushrajabd/ayushrajabd/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/ayushrajabd/ayushrajabd/tree/master/0875-koko-eating-bananas) |
 | [0890-lemonade-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0890-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushrajabd/ayushrajabd/tree/master/0944-delete-columns-to-make-sorted) |
@@ -534,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
+| [0874-walking-robot-simulation](https://github.com/ayushrajabd/ayushrajabd/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/ayushrajabd/ayushrajabd/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushrajabd/ayushrajabd/tree/master/2149-rearrange-array-elements-by-sign) |
