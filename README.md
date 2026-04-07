@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/ayushrajabd/ayushrajabd/tree/master/0874-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/ayushrajabd/ayushrajabd/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
+| [2069-walking-robot-simulation-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2069-walking-robot-simulation-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushrajabd/ayushrajabd/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2211-count-collisions-on-a-road](https://github.com/ayushrajabd/ayushrajabd/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -723,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1622-fancy-sequence) |
+| [2069-walking-robot-simulation-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2069-walking-robot-simulation-ii) |
 ## Union-Find
 |  |
 | ------- |
