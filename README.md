@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ayushrajabd/ayushrajabd/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1018-largest-perimeter-triangle](https://github.com/ayushrajabd/ayushrajabd/tree/master/1018-largest-perimeter-triangle) |
+| [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1200-minimum-absolute-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushrajabd/ayushrajabd/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushrajabd/ayushrajabd/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0240-search-a-2d-matrix-ii) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0840-magic-squares-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/0840-magic-squares-in-grid) |
+| [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0145-binary-tree-postorder-traversal) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1382-balance-a-binary-search-tree](https://github.com/ayushrajabd/ayushrajabd/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -632,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Heap (Priority Queue)
 |  |
@@ -733,5 +737,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ayushrajabd/ayushrajabd/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushrajabd/ayushrajabd/tree/master/2573-find-the-string-with-lcp) |
 <!---LeetCode Topics End-->
