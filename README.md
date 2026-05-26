@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ayushrajabd/ayushrajabd/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3531-count-covered-buildings](https://github.com/ayushrajabd/ayushrajabd/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/ayushrajabd/ayushrajabd/tree/master/3583-count-special-triplets) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ayushrajabd/ayushrajabd/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushrajabd/ayushrajabd/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3606-coupon-code-validator](https://github.com/ayushrajabd/ayushrajabd/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
