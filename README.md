@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ayushrajabd/ayushrajabd/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ayushrajabd/ayushrajabd/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/ayushrajabd/ayushrajabd/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0166-fraction-to-recurring-decimal) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ayushrajabd/ayushrajabd/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/ayushrajabd/ayushrajabd/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/ayushrajabd/ayushrajabd/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0166-fraction-to-recurring-decimal) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/ayushrajabd/ayushrajabd/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ayushrajabd/ayushrajabd/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/ayushrajabd/ayushrajabd/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ayushrajabd/ayushrajabd/tree/master/0130-surrounded-regions) |
 | [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
