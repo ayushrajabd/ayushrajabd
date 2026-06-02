@@ -641,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/ayushrajabd/ayushrajabd/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -660,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/ayushrajabd/ayushrajabd/tree/master/0802-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/ayushrajabd/ayushrajabd/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
+| [0802-find-eventual-safe-states](https://github.com/ayushrajabd/ayushrajabd/tree/master/0802-find-eventual-safe-states) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
 |  |
@@ -774,4 +777,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ayushrajabd/ayushrajabd/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
+| [0802-find-eventual-safe-states](https://github.com/ayushrajabd/ayushrajabd/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
