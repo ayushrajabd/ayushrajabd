@@ -638,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ayushrajabd/ayushrajabd/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/ayushrajabd/ayushrajabd/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/ayushrajabd/ayushrajabd/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ayushrajabd/ayushrajabd/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/ayushrajabd/ayushrajabd/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0322-coin-change) |
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
 | [0794-swim-in-rising-water](https://github.com/ayushrajabd/ayushrajabd/tree/master/0794-swim-in-rising-water) |
@@ -744,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayushrajabd/ayushrajabd/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Shortest Path
@@ -770,4 +773,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ayushrajabd/ayushrajabd/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
