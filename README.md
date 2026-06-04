@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/ayushrajabd/ayushrajabd/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ayushrajabd/ayushrajabd/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ayushrajabd/ayushrajabd/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Math
 |  |
 | ------- |
@@ -440,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ayushrajabd/ayushrajabd/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Memoization
 |  |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/ayushrajabd/ayushrajabd/tree/master/2507-number-of-common-factors) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ayushrajabd/ayushrajabd/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Simulation
 |  |
 | ------- |
