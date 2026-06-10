@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ayushrajabd/ayushrajabd/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayushrajabd/ayushrajabd/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3719-longest-balanced-subarray-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Binary Search
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayushrajabd/ayushrajabd/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushrajabd/ayushrajabd/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -684,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Trie
 |  |
 | ------- |
@@ -749,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1622-fancy-sequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1622-fancy-sequence) |
 | [3454-separate-squares-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3454-separate-squares-ii) |
+| [3691-maximum-total-subarray-value-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3719-longest-balanced-subarray-i) |
 ## Line Sweep
 |  |
