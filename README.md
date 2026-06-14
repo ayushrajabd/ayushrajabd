@@ -504,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/ayushrajabd/ayushrajabd/tree/master/0455-assign-cookies) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushrajabd/ayushrajabd/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ayushrajabd/ayushrajabd/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ayushrajabd/ayushrajabd/tree/master/2161-partition-array-according-to-given-pivot) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -549,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayushrajabd/ayushrajabd/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ayushrajabd/ayushrajabd/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ayushrajabd/ayushrajabd/tree/master/0141-linked-list-cycle) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushrajabd/ayushrajabd/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -706,6 +708,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ayushrajabd/ayushrajabd/tree/master/0145-binary-tree-postorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0503-next-greater-element-ii) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ayushrajabd/ayushrajabd/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/ayushrajabd/ayushrajabd/tree/master/2211-count-collisions-on-a-road) |
 ## Queue
 |  |
