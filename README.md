@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushrajabd/ayushrajabd/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushrajabd/ayushrajabd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/ayushrajabd/ayushrajabd/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/ayushrajabd/ayushrajabd/tree/master/2211-count-collisions-on-a-road) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayushrajabd/ayushrajabd/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/1901-find-a-peak-element-ii) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ayushrajabd/ayushrajabd/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushrajabd/ayushrajabd/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
