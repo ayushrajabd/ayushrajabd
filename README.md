@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/ayushrajabd/ayushrajabd/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushrajabd/ayushrajabd/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushrajabd/ayushrajabd/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ayushrajabd/ayushrajabd/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/1200-minimum-absolute-difference) |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushrajabd/ayushrajabd/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushrajabd/ayushrajabd/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushrajabd/ayushrajabd/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/ayushrajabd/ayushrajabd/tree/master/1833-maximum-ice-cream-bars) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ayushrajabd/ayushrajabd/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/1975-maximum-matrix-sum) |
 | [2126-destroying-asteroids](https://github.com/ayushrajabd/ayushrajabd/tree/master/2126-destroying-asteroids) |
