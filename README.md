@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushrajabd/ayushrajabd/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/ayushrajabd/ayushrajabd/tree/master/1189-maximum-number-of-balloons) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ayushrajabd/ayushrajabd/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0220-contains-duplicate-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0220-contains-duplicate-iii) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0413-arithmetic-slices](https://github.com/ayushrajabd/ayushrajabd/tree/master/0413-arithmetic-slices) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ayushrajabd/ayushrajabd/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ayushrajabd/ayushrajabd/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ayushrajabd/ayushrajabd/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/ayushrajabd/ayushrajabd/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
