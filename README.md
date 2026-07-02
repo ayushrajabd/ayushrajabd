@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayushrajabd/ayushrajabd/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ayushrajabd/ayushrajabd/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ayushrajabd/ayushrajabd/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 | [3379-transformed-array](https://github.com/ayushrajabd/ayushrajabd/tree/master/3379-transformed-array) |
@@ -671,6 +672,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/ayushrajabd/ayushrajabd/tree/master/2573-find-the-string-with-lcp) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/ayushrajabd/ayushrajabd/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/ayushrajabd/ayushrajabd/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Combinatorics
 |  |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ayushrajabd/ayushrajabd/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -731,6 +734,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2054-two-best-non-overlapping-events](https://github.com/ayushrajabd/ayushrajabd/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -817,10 +821,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/ayushrajabd/ayushrajabd/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/ayushrajabd/ayushrajabd/tree/master/0802-find-eventual-safe-states) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
