@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/ayushrajabd/ayushrajabd/tree/master/1200-minimum-absolute-difference) |
+| [1260-shift-2d-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ayushrajabd/ayushrajabd/tree/master/1266-minimum-time-visiting-all-points) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ayushrajabd/ayushrajabd/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/0258-add-digits) |
 | [0874-walking-robot-simulation](https://github.com/ayushrajabd/ayushrajabd/tree/master/0874-walking-robot-simulation) |
+| [1260-shift-2d-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1260-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/ayushrajabd/ayushrajabd/tree/master/1642-water-bottles) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2069-walking-robot-simulation-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2069-walking-robot-simulation-ii) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/0840-magic-squares-in-grid) |
 | [1020-number-of-enclaves](https://github.com/ayushrajabd/ayushrajabd/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1260-shift-2d-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/ayushrajabd/ayushrajabd/tree/master/1582-special-positions-in-a-binary-matrix) |
