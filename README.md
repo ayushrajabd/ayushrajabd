@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/ayushrajabd/ayushrajabd/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushrajabd/ayushrajabd/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ayushrajabd/ayushrajabd/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayushrajabd/ayushrajabd/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayushrajabd/ayushrajabd/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3433-count-mentions-per-user](https://github.com/ayushrajabd/ayushrajabd/tree/master/3433-count-mentions-per-user) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ayushrajabd/ayushrajabd/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2573-find-the-string-with-lcp](https://github.com/ayushrajabd/ayushrajabd/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ayushrajabd/ayushrajabd/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ayushrajabd/ayushrajabd/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushrajabd/ayushrajabd/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/ayushrajabd/ayushrajabd/tree/master/1189-maximum-number-of-balloons) |
 | [1469-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/ayushrajabd/ayushrajabd/tree/master/1469-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/ayushrajabd/ayushrajabd/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/ayushrajabd/ayushrajabd/tree/master/3312-sorted-gcd-pair-queries) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ayushrajabd/ayushrajabd/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
