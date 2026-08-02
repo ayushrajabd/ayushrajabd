@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/ayushrajabd/ayushrajabd/tree/master/0874-walking-robot-simulation) |
 | [0875-koko-eating-bananas](https://github.com/ayushrajabd/ayushrajabd/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/ayushrajabd/ayushrajabd/tree/master/0877-stone-game) |
 | [0890-lemonade-change](https://github.com/ayushrajabd/ayushrajabd/tree/master/0890-lemonade-change) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ayushrajabd/ayushrajabd/tree/master/0944-delete-columns-to-make-sorted) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/ayushrajabd/ayushrajabd/tree/master/0583-delete-operation-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayushrajabd/ayushrajabd/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0799-champagne-tower](https://github.com/ayushrajabd/ayushrajabd/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/ayushrajabd/ayushrajabd/tree/master/0877-stone-game) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/ayushrajabd/ayushrajabd/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1092-shortest-common-supersequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/ayushrajabd/ayushrajabd/tree/master/1143-longest-common-subsequence) |
@@ -482,6 +484,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/ayushrajabd/ayushrajabd/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/ayushrajabd/ayushrajabd/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/ayushrajabd/ayushrajabd/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/ayushrajabd/ayushrajabd/tree/master/0877-stone-game) |
 | [0888-mirror-reflection](https://github.com/ayushrajabd/ayushrajabd/tree/master/0888-mirror-reflection) |
 | [0897-prime-palindrome](https://github.com/ayushrajabd/ayushrajabd/tree/master/0897-prime-palindrome) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/ayushrajabd/ayushrajabd/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
@@ -938,4 +941,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/ayushrajabd/ayushrajabd/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
