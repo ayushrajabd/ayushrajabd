@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3623-count-number-of-trapezoids-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/ayushrajabd/ayushrajabd/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ayushrajabd/ayushrajabd/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## String
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/ayushrajabd/ayushrajabd/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3719-longest-balanced-subarray-i) |
+| [3731-find-missing-elements](https://github.com/ayushrajabd/ayushrajabd/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/ayushrajabd/ayushrajabd/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/ayushrajabd/ayushrajabd/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/ayushrajabd/ayushrajabd/tree/master/3536-maximum-product-of-two-digits) |
 | [3606-coupon-code-validator](https://github.com/ayushrajabd/ayushrajabd/tree/master/3606-coupon-code-validator) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ayushrajabd/ayushrajabd/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3731-find-missing-elements](https://github.com/ayushrajabd/ayushrajabd/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ayushrajabd/ayushrajabd/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
